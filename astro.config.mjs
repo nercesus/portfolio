@@ -3,6 +3,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://nercesus.github.io',
-  base: '/portfolio',
+  site: 'https://jovu.dev',
 });
